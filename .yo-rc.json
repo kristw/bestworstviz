@@ -1,0 +1,28 @@
+{
+  "generator-doraemon": {
+    "type": "website",
+    "name": "bestworstviz",
+    "safeName": "bestworstviz",
+    "description": "bestworstviz's description",
+    "keywords": [
+      ""
+    ],
+    "authorName": "Krist Wongsuphasawat",
+    "authorEmail": "krist.wongz@gmail.com",
+    "authorUrl": "http://kristw.yellowpigz.com",
+    "twitterHandle": "kristw",
+    "githubAccount": "kristw",
+    "githubUrl": "https://github.com/kristw/bestworstviz",
+    "ghpagesUrl": "https://kristw.github.io/bestworstviz",
+    "year": 2016,
+    "testSpecPattern": "src/app/**/*.spec.js",
+    "devtools": [
+      "bower",
+      "webpack",
+      "karma",
+      "browser-sync",
+      "gulp",
+      "jshint"
+    ]
+  }
+}

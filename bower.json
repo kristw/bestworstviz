@@ -1,0 +1,23 @@
+{
+  "name": "bestworstviz",
+  "description": "bestworstviz's description",
+  "authors": [
+    "Krist Wongsuphasawat <krist.wongz@gmail.com> (http://kristw.yellowpigz.com)"
+  ],
+  "keywords": [],
+  "homepage": "https://kristw.github.io/bestworstviz",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^3.5.16",
+    "d3kit": "^1.1.0",
+    "bootstrap": "^3.3.6",
+    "paths-js": "^0.4.4"
+  }
+}
