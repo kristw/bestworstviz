@@ -1,9 +1,8 @@
 # bestworstviz [![Dependency Status][daviddm-image]][daviddm-url]
 
-The code behind this award-winning terrible visualization design :joy:
-http://www.visualisingdata.com/2016/04/bestworstviz-contest-result/
+The code behind this award-winning terrible visualization :joy: designed for [#bestworstviz contest](http://www.visualisingdata.com/2016/04/bestworstviz-contest-result/) held by Andy Kirk of visualisingdata.com
 
-Read more about it from this [blog post](https://medium.com/@kristw/how-i-carefully-crafted-a-terrible-visualization-2c8e06d50ebb#.bk05zmhmy)
+Read more about the design process from this [blog post](https://medium.com/@kristw/how-i-carefully-crafted-a-terrible-visualization-2c8e06d50ebb#.bk05zmhmy)
 
 ![WTF Vis](http://www.visualisingdata.com/wp-content/uploads/2016/04/BestWorstViz1-600x440.png)
 
